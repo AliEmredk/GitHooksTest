@@ -5,7 +5,7 @@ import "./App.css";
 
 const App = () => {
   const [count, setCount] = useState(0);
-    const x: number = "hello"; // ❌
+    const x: number = "hello"; // ❌ dd
     console.log(x);
 
   return (
